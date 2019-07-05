@@ -1,7 +1,7 @@
 {
   "name": "qq-api",
   "version": "0.1",
-  "description": "QQ小程序服务端API,
+  "description": "QQ小程序服务端API",
   "main": "index.js",
   "scripts": {
     "test": "make test-all"
