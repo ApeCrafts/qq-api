@@ -1,7 +1,7 @@
 {
-  "name": "wechat-api",
-  "version": "1.35.1",
-  "description": "微信公共平台Node库 API",
+  "name": "qq-api",
+  "version": "0.1",
+  "description": "QQ小程序服务端API,
   "main": "index.js",
   "scripts": {
     "test": "make test-all"
@@ -13,11 +13,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/node-webot/wechat-api.git"
+    "url": "git://github.com/ApeCrafts/qq-api.git"
   },
   "keywords": [
-    "weixin",
-    "wechat"
+    "qq"
   ],
   "dependencies": {
     "formstream": ">=1.0.0",
